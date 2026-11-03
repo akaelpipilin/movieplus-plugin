@@ -1,21 +1,15 @@
 {
-  "manifestVersion": 1,
-  "id": "movieplus-v2",
-  "name": "MoviePlus V2",
+  "id": "org.movieplus.personal",
   "version": "1.0.0",
-  "apiVersion": 1,
-  "description": "Plugin personal para acceder al catálogo",
-  "author": "Paulo",
-  "entry": "plugin.js",
-  "capabilities": [
-    "catalog"
-  ],
-  "hosts": [
-    "api.appsdevxp.com",
-    "developerxploit.com",
-    "raw.githubusercontent.com"
-  ],
-  "permissions": [
-    "network"
+  "name": "MoviePlus Personal",
+  "description": "Plugin adaptado para streaming directo",
+  "resources": ["catalog"],
+  "types": ["movie", "series"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "movieplus-movies",
+      "name": "MoviePlus Películas"
+    }
   ]
 }
