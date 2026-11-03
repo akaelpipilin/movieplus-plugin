@@ -1,4 +1,5 @@
 {
+  "manifestVersion": 1,
   "id": "movp-personal-plugin",
   "name": "MoviePlus Personal",
   "version": "1.0.0",
