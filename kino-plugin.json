@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
-  "id": "movp-personal-plugin",
-  "name": "MoviePlus Personal",
+  "id": "movieplus-v2",
+  "name": "MoviePlus V2",
   "version": "1.0.0",
   "apiVersion": 1,
   "description": "Plugin personal para acceder al catálogo",
