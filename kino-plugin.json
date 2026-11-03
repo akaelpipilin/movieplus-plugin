@@ -7,6 +7,9 @@
   "description": "Plugin personal para acceder al catálogo",
   "author": "Paulo",
   "entry": "plugin.js",
+  "capabilities": [
+    "catalog"
+  ],
   "hosts": [
     "api.appsdevxp.com",
     "developerxploit.com",
