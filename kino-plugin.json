@@ -1,0 +1,11 @@
+{
+  "id": "movp-personal-plugin",
+  "name": "MoviePlus Personal",
+  "version": "1.0.0",
+  "description": "Plugin personal para acceder al catálogo",
+  "author": "Paulo",
+  "main": "plugin.js",
+  "permissions": [
+    "network"
+  ]
+}
